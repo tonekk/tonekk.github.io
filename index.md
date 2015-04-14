@@ -1,0 +1,64 @@
+## Hey there.
+
+### I'm Finn.
+
+#### I'm developing web-apps. I'm an autodidact. Let me tell you how I got here.
+
+Born 1994 in Kiel, me and my family then moved to Essen, Hannover and then Pulheim near Cologne.
+This is where the story starts:
+
+I was around the age of 11, when my father got me my first computer.
+It’s been an old Win98-Box which has already been outdated by that time (2005), so playing games wasn’t a real fun thing to do.
+But it’s actually been a good thing: I quickly started to explore all edges of the OS, spending more and more time solving everyday problems.
+By the time I was 12, I was the person being consulted if there was any computer-related issue in our household.
+
+So I could have become a sys-admin by now, if there had not been this turning point in my life (actually there were 2): In early 2007, a friend gave me a book about ‘developing games with visual basic’.
+Flipped the book open, as soon as I got home, and read the first paragraph.
+I was instantly addicted.
+But I soon discovered that, due to a lack of ideas what to do with it, Visual Basic wasn’t the right thing to start.
+That’s where I got my first PHP book.
+
+Half a year later, me and my family moved to Berlin, where I’m still living now.
+This  actually is the second turning point I was talking about, which I hope not having to explain further.
+When I turned 14, I got my first job: I should develop a pacman like game in flash.
+The guy who paid me also offered me to pay for a book I’d need, but I felt that I was ready to learn flash online.
+So I took the money and got me a C++ book instead.
+
+I needed another year to fully get into C++ and object oriented programming.
+At that time there wasn’t a single day that I didn’t spend coding or reading books about it.
+Besides going to school, I was working as a sysadmin (aka.
+guy who installs windows & printers) in my mother’s office.
+I also did an internship at 3M Healthcare, where my dad was manager, but again I was only supposed to install windows.
+While watching it install, I got into javascript and read articles about software security.
+
+Finally, when I turned 16, a friend got me my first real developer job.
+I worked at berida, creating all kinds of webstuff (wordpress plugins, php-libraries, C# apps…).
+During that time, I also learned a lot of basics.
+I tried out ASMx86, perl, python and got familiar with linux, which quickly became my main OS.
+After one year of working there, I was confident enough to quit school and stayed there for a half-year internship, which got me my entrance qualification for universities of applied sciences (‘Fachhochschulreife’).
+
+3 months later, in April 2012, I began to study media design and computer science at Beuth Hochschule Berlin.
+While studying, I continued to work at berida, but I soon came to the conclusion that I underestimated the struggle of working while studying (some people might do this easily, for me, it was not the case).
+Motivation became a bigger issue as the first year passed (also due to the fact that I knew 90% of the stuff being taught), so I quit university after 2 semesters (well technically I didn’t quit, but well I’m not attending right now).
+In fact I was so de-motivated, that I was wondering if programming was really what I wanted to do for the rest of my career.
+
+After half a year of not knowing what to do, I applied at doxter, a Berlin based startup.
+I was still willing to try something new, so I applied as a call center sales agent (funny, I know)…  It took 1 month until I switched over to the development desk.
+This is where I started ruby / rails, which I’d consider my main language / framework now.
+My new boss also encouraged me to try out vim, as well as tmux.
+Finally, a workflow! Until then I studied lots of languages, but never really gave a shit about workflow, and I soon realized how much time I wasted.
+
+A bit more than one year later, in early 2014, I quit doxter for good.
+I felt that it was time to learn something new and the tasks that I got at doxter became really repetitive (because it was one project, maybe).
+Switching over to simpleTechs, I discovered, that home-office doesn’t do the job for me.
+It took me a month to realize it, but that month of nodeJS made me hungry again.
+Atmosphere is everything when I’m working and I also need to talk to people.
+
+So I was in search for a job again and it was a good coincidence that my father’s company conGane was in need of a lead programmer.
+The product was written by a single programmer in crappy php, so I decided to rewrite it from scratch using the techniques I learned during the year at doxter.
+And well, **that’s what I’m still doing now ;)**
+
+_Looking at the text, I really have to admit that I wasn’t expecting this to get half as long as it is now.
+Motivation is a weird thing: Sometimes you can’t find it for weeks and sometimes you just start and in the end you are surprised by yourself._
+
+### Have a good day.
