@@ -4,31 +4,146 @@
     <meta charset="utf-8">
   </head>
 
+  <link href="http://fonts.googleapis.com/css?family=Bangers" rel="stylesheet" type="text/css">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
   <style>
+    /* http://coolors.co/app/d8cbc7-32292f-575366-6e7dab-495159 */
+
+    html, body {
+      position: relative;
+      height: 100%;
+    }
+
     body {
       font-family: Courier New;
+      text-align: center;
+      background: #6E7DAB;
+      color: #32292F;
+    }
+
+    body {
+      white-space: nowrap;
+    }
+
+    body > main {
+      display: inline-block;
+      white-space: normal;
+      vertical-align: middle;
+      text-align: left;
+    }
+
+    body:before {
+      content: '';
+      display: inline-block;
+      height: 100%;
+      width: 0;
+      vertical-align: middle;
+    }
+
+    #headline {
+      padding: 45px 20px;
+      border-right: 1px solid;
+      border-bottom: 1px solid;
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      font-family: 'Bangers', cursive;
+    }
+
+    #headline h1 {
+      margin: 0;
     }
 
     main {
-      margin: 200px auto;
+      margin: 0 auto;
       font-size: 24px;
-      width: 400px
+      width: 475px
     }
 
     a {
       color: black;
-      text-decoration: none!important;
+      text-decoration: none;
       font-weight: bold;
     }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    a:active {
+      outline: none;
+    }
+
+    a:visited {
+      text-decoration: none;
+    }
+
+    span {
+      display: inline-block;
+    }
+
+    span.hashtag {
+      font-size: 2.5em;
+    }
+
+    span.content {
+      vertical-align: text-bottom;
+    }
+
+    #sidebar {
+      text-align: center;
+      position: fixed;
+      right: 0;
+      top: 10px;
+      z-index: 10; }
+
+      #sidebar a {
+        color: #6E7DAB;
+        background: #495159;
+        display: block;
+        margin-bottom: 2px;
+        text-decoration: none;
+        -webkit-transition: all .2s ease-in-out;
+                transition: all .2s ease-in-out;
+        box-sizing: border-box;
+        width: 2em;
+        height: 2em;
+        line-height: 2em;
+        font-size: 17px; }
+        #sidebar a:visited, #sidebar a:focus {
+          text-decoration: none;
+        }
+        #sidebar a:hover {
+          background: #fff9e8;
+          color: #6E7DAB;
+        }
   </style>
 
   <title>tonekk</title>
 
   <body>
     <main>
-      Content will follow.
-      <br>
-      Meanwhile, read my <a href="bio">biograhpy</a>
+
+      <div id="sidebar">
+        <a class="fa fa-facebook" href="https://facebook.com/tonekk1"></a>
+        <a class="fa fa-twitter" href="https://twitter.com/tonekk1"></a>
+        <a class="fa fa-soundcloud" href="https://soundcloud.com/tonekk"></a>
+        <a class="fa fa-github" href="https://github.com/tonekk"></a>
+      </div>
+
+      <div id="headline">
+        <h1>tonekk</h1>
+      </div>
+
+      <span class="hashtag">
+        #
+      </span>
+      <span class="content">
+        Content will follow.
+        <br>
+        Meanwhile, read my <a href="bio">biography</a>.
+      </span>
     </main>
   </body>
 </html>
