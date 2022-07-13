@@ -69,7 +69,7 @@ After the switch to **explicit nesting**, the classes looks like this:
 {% highlight ruby %}
 class Product
   module Operation
-    class Create < Trailblazer::Validaton
+    class Create < Trailblazer::Operation
       extend self::Contract::DSL  
 
       step     Model( Product, :new )
